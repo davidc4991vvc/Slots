@@ -80,13 +80,13 @@ namespace Slots.Controllers
                     return m_model.m_slotImages.ImageOne;
 
                 case 2:
-                    return m_model.m_slotImages.ImageOne;
+                    return m_model.m_slotImages.ImageTwo;
 
                 case 3:
-                    return m_model.m_slotImages.ImageOne;
+                    return m_model.m_slotImages.ImageThree;
 
                 case 4:
-                    return m_model.m_slotImages.ImageOne;
+                    return m_model.m_slotImages.ImageFour;
             }
 
             return null;

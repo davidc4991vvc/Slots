@@ -9,6 +9,10 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+*.resx
+*.jpg
+*.png
+*AssemblyInfo.cs
 
 # Build results
 [Dd]ebug/
@@ -301,3 +305,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.config
+*.csproj
+*.settings
